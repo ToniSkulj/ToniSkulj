@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello There, I'm Toni</h1>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="310" width="275" alt="GIF" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
+  <img align="right" top="100" height="380" width="320" alt="GIF" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
 </a>
 
 <h3 align="left" > Who ? </h3>
@@ -20,7 +20,7 @@
 
 <p align="left">
 
- <div align="left"  class="icons-social" style="margin-left: 10px;">
+ <div align="left" class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/ToniSkulj">
 		  <img src="https://img.icons8.com/bubbles/60/000000/github--v1.png">
     </a>
