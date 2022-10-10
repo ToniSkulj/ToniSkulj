@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello There, I'm Toni</h1>
+<h1 align="center">Hello There, I'm Toni</h1>
 
 <a target="_blank" align="center">
   <img align="right" top="100" height="375" width="300" alt="GIF" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
