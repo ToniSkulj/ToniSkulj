@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello There, I'm Toni</h1>
 
 <a target="_blank" align="center">
-  <img align="right" top="100" height="380" width="320" alt="GIF" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
+  <img align="right" top="100" height="375" width="320" alt="GIF" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
 </a>
 
 <h3 align="left" > Who ? </h3>
