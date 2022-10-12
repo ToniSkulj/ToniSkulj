@@ -14,8 +14,6 @@
 
 🎬 Love the MCU & Starwars
 
-📄 <a href="https://www.canva.com/design/DAEcqELmZ-s/DlfnPDoTo1fRJed_IP2X9Q/view?utm_content=DAEcqELmZ-s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank">My Resume</a>
-
 <h3 align="left" > Get in Touch 🤝 </h3>
 
 <p align="left">
